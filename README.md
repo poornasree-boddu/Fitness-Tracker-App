@@ -41,6 +41,7 @@ A **Java GUI application** designed to help users track daily fitness activities
 ## 🖼️ Screenshots 
 https://github.com/poornasree-boddu/Fitness-Tracker-App/blob/main/Screenshots/Screenshot%202025-06-10%20192707.png
 https://github.com/poornasree-boddu/Fitness-Tracker-App/blob/main/Screenshots/Screenshot%202025-06-10%20192804.png
+https://github.com/poornasree-boddu/Fitness-Tracker-App/blob/main/Screenshots/Screenshot%202025-06-10%20192812.png
 
 
 
